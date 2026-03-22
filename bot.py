@@ -3,9 +3,9 @@ from telebot import types
 
 # =============================================
 # GANTI TOKEN DI SINI DENGAN TOKEN BOTFATHER
-TOKEN = 'ISI_TOKEN_BOTFATHER_KAMU_DI_SINI'
+TOKEN = 8025426775:AAEsAZnAklXzhfP1pS0G-WbR76HeUlVUW_g
 # GANTI LINK WEBSITE VERCEL KAMU
-WEBSITE = 'https://quantagent.vercel.app'
+WEBSITE = https://quan-agent-landing.vercel.app/
 # =============================================
 
 bot = telebot.TeleBot(TOKEN)
